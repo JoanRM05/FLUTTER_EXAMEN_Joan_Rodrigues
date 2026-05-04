@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+/*import 'package:flutter/material.dart';
 
 class DetailPage extends StatelessWidget {
   final int index;
@@ -18,3 +18,4 @@ class DetailPage extends StatelessWidget {
     );
   }
 }
+*/

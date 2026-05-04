@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'detail_page.dart';
+import 'package:flutter_examen/screens/home_page.dart';
 
 class ListPage extends StatelessWidget {
   const ListPage({super.key});
@@ -34,7 +34,7 @@ class ListPage extends StatelessWidget {
                     Navigator.push(
                       context,
                       MaterialPageRoute(
-                        builder: (_) => Home(),
+                        builder: (context) => HomePage(),
                       ),
                     );
                   },
